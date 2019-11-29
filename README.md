@@ -1,11 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>LookIn Meditation App</h1>
 
-Things you may want to cover:
+This is a an application called Lookin, the intention is to help the users to improve their lives through meditation.
 
-* Ruby version
+
+<h2>Technologies</h2>
+
+* Ruby 6
+
+
 
 * System dependencies
 
