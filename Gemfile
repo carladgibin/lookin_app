@@ -58,7 +58,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #updates
 gem 'bulma-rails', '~> 0.6.1'
-gem 'simple_form', '~> 4.0'
+gem 'simple_form', '~> 5.0'
 gem 'devise', '~> 4.4'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'carrierwave'
